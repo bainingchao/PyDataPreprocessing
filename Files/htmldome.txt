@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="baidu_union_verify" content="e375dfea1f5937c9114d7fea78c91675">
+        <meta name="keywords" content="懂球帝|足球新闻|足球App|足球资讯|足球直播|足球视频|足球比分|中国足球"/>
+                            <title>上港5-4恒大5分领跑剑指冠军，下轮打平便可夺冠，武磊平纪录 — 广州恒大淘宝|上海上港|蔡慧康|武磊|胡尔克|张成林|阿兰|保利尼奥|王燊超|吕文君|懂球帝</title>
+        <script src="https://static1.dongqiudi.com/web-new/static/js/jQuery.1.11.min.js"></script>
+        <link rel="shortcut icon" href="https://static1.dongqiudi.com/web-new/web/images/fav.ico?20170706" type="image/x-icon">
+                <link rel="stylesheet" href="https://static1.dongqiudi.com/web-new/web/css/style.css?2018102201">
+        <style>
+
+</head>
+<body>
+<div id="header">
+    <p>北京时间11月3日19:35，中超第28轮迎来天王山之战，广州恒大淘宝坐镇主场迎战上海上港。上半场吕文君和蔡慧康先后进球两度为上港取得领先，保利尼奥和阿兰两度为恒大将比分扳平，补时阶段保利尼奥进球反超比分；下半场武磊进球追平李金羽单赛季进球纪录，王燊超造成张成林乌龙，胡尔克点射破门，阿兰补时打进点球。最终，上海上港客场5-4战胜广州恒大淘宝，赛季双杀恒大同时也将积分榜上的领先优势扩大到五分，上港下轮只要战平就将夺得冠军。</p>
+</div>
+
+<div id="mask">
+    <div id="pop">
+        <a href="#" class="close"></a>
+            <h3><span class="icon_sad"></span> 非常抱歉！</h3>
+            <p></p>
+            <a href="#" class="btn"></a>
+    </div>
+</div>
+<div id="blink">
+    <div id="popUp">
+     <p></p>
+    </div>
+</div>
+<div id="ctr">
+    <div class="code"></div>
+    <span class="icon_qr"></span>
+    <a href="#" class="b_t"></a>
+</div>
+</body>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?662abe3e1ab2558f09503989c9076934";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+</html>
