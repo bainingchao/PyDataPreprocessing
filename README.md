@@ -16,11 +16,12 @@
 
 ## 开发环境说明 开发环境说明
 
-开发语言: Python3.7
-系统环境：window10 
-编程环境：Sublime 
-软件环境：Anaconda4.5 
-插件版本：均支持最新版本
+- - 开发语言: Python3.7
+- 系统环境：window10 
+- 编程环境：Sublime 
+- 软件环境：Anaconda4.5 
+- 插件版本：均支持最新版本
+
 ## 源码获取说明
 
 本书的源码支持GitHUb下载[https://github.com/bainingchao/PyDataPreprocessing](https://github.com/bainingchao/PyDataPreprocessing "https://github.com/bainingchao/PyDataPreprocessing")，源码下载编排如下：
